@@ -17,13 +17,13 @@
 Adain : https://github.com/naoto0804/pytorch-AdaIN
 
 
-SANet : https://github.com/naoto0804/pytorch-AdaIN
+SANet : https://github.com/GlebSBrykin/SANET
 
 
-Paint Trasformer : https://github.com/naoto0804/pytorch-AdaIN
+Paint Trasformer : https://github.com/Huage001/PaintTransformer
 
 
-Stylized Neural Painting :  https://github.com/naoto0804/pytorch-AdaIN
+Stylized Neural Painting :  https://github.com/jiupinjia/stylized-neural-painting
 
 
-HED : https://github.com/naoto0804/pytorch-AdaIN
+HED : https://github.com/sniklaus/pytorch-hed
