@@ -24,3 +24,6 @@ Paint Trasformer : https://github.com/naoto0804/pytorch-AdaIN
 
 
 Stylized Neural Painting :  https://github.com/naoto0804/pytorch-AdaIN
+
+
+HED : https://github.com/naoto0804/pytorch-AdaIN
