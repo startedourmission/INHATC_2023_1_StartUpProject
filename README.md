@@ -13,6 +13,10 @@
 ![스크린샷 2023-06-23 171623](https://github.com/startedourmission/INHATC_2023_1_StartUpProject/assets/53049011/c7e1d87c-957c-4a0f-85f2-6cb84660358d)
 
 
+Ubuntu 20.04, 2개의 NVIDIA TITAN RTX 환경에서 작업하였습니다.
+
+
+
 
 
 # Reference
