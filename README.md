@@ -1,6 +1,6 @@
 # INHATC_2023_1_StartUpProject
 
-한국화 양식에 적합한 Style Transfer
+한국화 양식에 적합한 Style Transfer.
 
 
 폴더 내 파일은 각 네트워크의 수정된 실행 파일입니다. 
