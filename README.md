@@ -1,4 +1,5 @@
-# INHATC_2023_1_StartUpProject
+# Korean-painting-Style-transfer-reaserch
+ITC_2023_1 Start-up project
 
 한국화 양식에 적합한 Style Transfer
 
